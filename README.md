@@ -63,3 +63,9 @@ The results are visualized using Matplotlib to plot:
 Average rewards per episode, showing the agent's learning progression.
 Epsilon decay over episodes, illustrating the shift from exploration to exploitation.
 Overflow events per episode, highlighting improvements in waste management.
+
+Further the results have been visualized with the help of graphs:
+![use_case_Waste_management_RL1](https://github.com/user-attachments/assets/4d8724d1-c9d3-4d96-adf0-12b977398edd)
+![use_case_waste_managent_2](https://github.com/user-attachments/assets/7153c560-52fb-46c3-b3c0-62fcacb35247)
+![use_case_waste_management3](https://github.com/user-attachments/assets/1a8a7109-1c40-4286-bd05-c6cde101f355)
+
