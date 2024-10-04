@@ -60,7 +60,7 @@ Overflow Events: Counts occurrences when the waste level exceeds the maximum cap
 6) Visualization:
 
 The results are visualized using Matplotlib to plot:
-<h1>Average rewards per episode</h1>, showing the agent's learning progression.
+Average rewards per episode, showing the agent's learning progression and rewards gained on successfull execution and implementation of a specified condition
 Epsilon decay over episodes, illustrating the shift from exploration to exploitation.
 Overflow events per episode, highlighting improvements in waste management.
 
