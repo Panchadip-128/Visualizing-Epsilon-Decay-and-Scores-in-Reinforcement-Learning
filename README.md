@@ -55,7 +55,7 @@ The agent learns from experience using a replay memory and updates its policy th
 Performance is evaluated using:
 Average Reward per Episode: Measures the effectiveness of the agent's actions.
 Epsilon Decay: Tracks the exploration rate, indicating how the agent balances exploration vs. exploitation.
-Overflow Events: Counts occurrences when the waste level exceeds the maximum capacity.
+Overflow Events: Counts occurrences when the waste level exceeds the maximum capacity as per previous updation.
 
 6) Visualization:
 
